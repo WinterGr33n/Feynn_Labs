@@ -1,2 +1,2 @@
 # Feynn_Labs
-This file contains the code conversion of mcdonalds case study using python. 
+This repo consists of code scripts and report of 3 projects performed under Feynn Labs
